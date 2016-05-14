@@ -1,8 +1,9 @@
 language: node_js
 node_js:
-  - '5.7'
-
-# Setup
+- '5.7'
 cache:
   directories:
-    - node_modules
+  - node_modules
+notifications:
+  slack:
+    secure: SJj3uGQPD3MdFOAF2blpx9+3j7/gsCeCb3CNEmpV/4gHHmaw9kY1XroiDUgKNL4TnJjb9E0/zVaTtRBBt7bK2Za4+aM9GD7KsryqHIe+vc1olnNUnM5mB5hW3SW/FtQUOdaqKx3G/8rK5zjRin3WpLAp6wXUy784jKJwTgTeBUmUe94+q6jZJ7XL1k1iUoHui4rknLfdcwdi73OCEtgMuDZgH6KOURepRV+AshORq+xvhXh9LrF/+f1M4Tkjv8A1BA9nNoHmo/jsCNXAk3187wtAHUsD/n6MklphEr0rJqC8aYikztzDeYrnmlXlSr0xIRaNUkFBRy+BNdK/sW8D4CEuReZWZDEV+ZhY2arhtQp+kH4/5X262QBox/Jnwsau/mk+xlbnPYjYNj7699B6xCkJ8DZdKuLPYXN3Q/OEqi3Q75/lX7MWRhK3xKjMVUTYHzsLj+E9b+NEcoJg7bn0SsJfCDQom69ruLtPGCvZ/cS4+OH174/Y8L/53q28kPlxEVNJpEaQRnGyy6X22Da0FXmISl3eZaSaQ4tU3EZFPzvgCWYykf8R+JYuWrqF8WF2lj+8lbTrflRKkIHHKoRBufh2YW1zx5p5Zev3TVo+7rnShhiJsRiFr+vsd7f3CpATd46A+TUyYJI1arRKO8D5ZByxHSjUikrzQULG7NDOWHc=
