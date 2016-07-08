@@ -1,4 +1,4 @@
-Number Input Plugin [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+Number Input Plugin [![Build Status](https://travis-ci.org/punchcard-cms/input-plugin-number.svg?branch=master)](https://travis-ci.org/punchcard-cms/input-plugin-number) [![Coverage Status](https://coveralls.io/repos/github/punchcard-cms/input-plugin-number/badge.svg?branch=master)](https://coveralls.io/github/punchcard-cms/input-plugin-number?branch=master) [![NSP Status](https://nodesecurity.io/orgs/punchcard-cms/projects/045d3d88-4530-4984-ae30-ac186b5a574e/badge)](https://nodesecurity.io/orgs/punchcard-cms/projects/045d3d88-4530-4984-ae30-ac186b5a574e)
 ---
 
 A single number input plugin
@@ -6,12 +6,3 @@ A single number input plugin
 ## License
 
 Apache-2.0
-
-[npm-image]: https://badge.fury.io/js/input-plugin-number.svg
-[npm-url]: https://npmjs.org/package/input-plugin-number
-[travis-image]: https://travis-ci.org/punchcard-cms/input-plugin-number.svg
-[travis-url]: https://travis-ci.org/punchcard-cms/input-plugin-number
-[daviddm-image]: https://david-dm.org/punchcard-cms/input-plugin-number.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/punchcard-cms/input-plugin-number
-[coveralls-image]: https://coveralls.io/repos/punchcard-cms/input-plugin-number/badge.svg
-[coveralls-url]: https://coveralls.io/r/punchcard-cms/input-plugin-number
