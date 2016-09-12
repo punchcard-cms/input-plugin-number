@@ -27,9 +27,6 @@ module.exports = {
       label: 'Please enter a number',
       placeholder: '42',
       type: 'number',
-      settings: {
-        empty: true,
-      },
     },
   },
   html: '<label for="{{number.id}}">{{number.label}}</label><input type="{{number.type}}" id="{{number.id}}" name="{{number.name}}" value="{{number.value}}" placeholder="{{number.placeholder}}" />',
